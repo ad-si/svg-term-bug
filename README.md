@@ -2,13 +2,11 @@
 
 Bug in svg-term
 
-<img
-  src='bug.svg'
-  alt='Screenshot Balance'
-  width='600'
-/>
-
 ![Bug](bug.svg)
+
+Bug fixed (replacing css with svg attributes)
+
+![Bug fixed](bug-fixed.svg)
 
 
 https://asciinema.org/a/WjieFWejN9qfjzFsyj1jzoYq0
